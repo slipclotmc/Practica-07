@@ -1,5 +1,6 @@
 /* FI UNAM fundamentos de programación
     Práctica 07 - programa 3*/
+
 #include <stdio.h>
 int main()
 {
